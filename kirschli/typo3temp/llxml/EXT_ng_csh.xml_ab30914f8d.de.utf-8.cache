@@ -1,0 +1,19 @@
+a:3:{s:7:"extlang";s:2:"de";s:8:"origFile";s:87:"typo3conf/l10n/de/wizard_sortpages/de.locallang_csh.xml|04-12-2007 16:59:00|version=2.3";s:8:"EXT_DATA";a:3:{s:27:"tx_wizardsortpages.alttitle";s:26:"Seitensortierungsassistent";s:30:"tx_wizardsortpages.description";s:208:"Der Assistent ermöglicht es Ihnen, Seiten alphabetisch nach Titel oder Untertitel, Erstellungs- oder Änderungszeitpunkt zu sortieren. Auch die Reihenfolge der Seiten im Seitenbaum läßt sich hier umkehren.";s:26:"tx_wizardsortpages.details";s:980:"Seiten im Seitenbaum sind immer manuell sortiert. Seiten lassen sich innerhalb des Seitenbaums hoch oder runter schieben, einrücken usw. und dieses Verhalten ist auf Systemebene nicht wirklich beeinflussbar. Dieser Assistent gibt Ihnen aber die Möglichkeit, die Sortierreihenfolge Ihrer Unterseiten schnell zu ändern.
+
+Klick einfach einen der Links am Ende der Assistenten-Seite:
+
+<b>Seitentitel</b>
+Sortiert Seiten nach dem Seitentitel.
+
+<b>Untertitel</b>
+Sortiert Seiten nach dem Untertitel.
+
+<b>Änderungszeitpunkt</b>
+Sortiert Seiten nach dem Änderungszeitpunkt.
+
+<b>Erstellungszeitpunkt</b>
+Sortiert Seiten nach dem Erstellungszeitpunkt.
+
+<b>Aktuelle Sortierreihenfolge umkehren</b>
+
+Kehrt die aktuelle Sortierreihenfolge um. Wählen Sie diese Option, wenn Sie zum Beispiel Ihre Seiten in umgekehrt-alphabetisch Reihenfolge sortiert haben wollen (also von Z-A statt A-Z). Gleiches gilt natürlich auch für Untertitel sowie für den Erstellungs- oder Änderungszeitpunkt.";}}

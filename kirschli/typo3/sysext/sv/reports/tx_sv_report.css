@@ -1,0 +1,25 @@
+/* Services report styles */
+/* $Id: tx_sv_report.css 8054 2010-06-24 22:31:51Z steffenk $ */
+
+.tx_sv_reportlist td {
+	vertical-align: middle;
+}
+
+.tx_sv_reportlist .bgColor2 td {
+	text-align: left;
+	font-weight: bold;
+	color: #fff;
+}
+
+.service-header {
+	margin-bottom: 4px;
+}
+
+.service-title {
+	font-weight: bold;
+}
+
+.service-description {
+	margin-bottom: 6px;
+	font-style: italic;
+}
